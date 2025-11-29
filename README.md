@@ -1,4 +1,4 @@
-# MindLog – Journaling & Habit Tracker App  
+# HabitFlow – Journaling & Habit Tracker App  
 A final project built using **Android Native (Kotlin)** with **SQLite** as the local database.  
 The app combines daily journaling with habit tracking to help users build consistency, improve mental clarity, and track personal growth.
 
